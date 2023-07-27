@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as n,c,a as s}from"./app-199eccbb.js";const r={};function _(a,l){const e=t("BlogList");return n(),c("div",null,[s(e)])}const m=o(r,[["render",_],["__file","index.html.vue"]]);export{m as default};
